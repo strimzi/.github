@@ -1,14 +1,17 @@
 [![Strimzi](./logo/strimzi.png)](https://strimzi.io/)
 
-# Strimzi Community Files
+# Strimzi Community Health Files
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/strimziio.svg?style=social&label=Follow&style=for-the-badge)](https://twitter.com/strimziio)
 
-This repository contains the governance documents for the Strimzi project:
+This repository contains the community health files for the Strimzi project:
 * [Code of Conduct](./CODE_OF_CONDUCT.md)
-* [License](./LICENSE)
+* [Contributing](./CONTRIBUTING.md)
 * [Security Policy](./SECURITY.md)
+* [Suppoer](./SUPPORT.md)
+* [License](./LICENSE)
+
 
 ---
 
