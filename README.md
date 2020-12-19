@@ -1,0 +1,17 @@
+[![Strimzi](./logo/strimzi.png)](https://strimzi.io/)
+
+# Strimzi Community Files
+
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Twitter Follow](https://img.shields.io/twitter/follow/strimziio.svg?style=social&label=Follow&style=for-the-badge)](https://twitter.com/strimziio)
+
+This repository contains the governance documents for the Strimzi project:
+* [Code of Conduct](./CODE_OF_CONDUCT.md)
+* [License](./LICENSE)
+* [Security Policy](./SECURITY.md)
+
+---
+
+Strimzi is a <a href="http://cncf.io">Cloud Native Computing Foundation</a> sandbox project.
+
+![CNCF ><](./logo/cncf-color.png)
