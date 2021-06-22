@@ -9,7 +9,7 @@ This repository contains the community health files for the Strimzi project:
 * [Code of Conduct](./CODE_OF_CONDUCT.md)
 * [Contributing](./CONTRIBUTING.md)
 * [Security Policy](./SECURITY.md)
-* [Suppoer](./SUPPORT.md)
+* [Support](./SUPPORT.md)
 * [License](./LICENSE)
 
 
