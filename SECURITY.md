@@ -15,7 +15,7 @@ Use GitHub issues instead.
 ## Supported Versions
 
 Depending on the severity of the CVE or other vulnerability, on any Strimzi component, the project provides the fix either as a patch release of the current minor release or in the next minor release.
-For example, if the latest version of the cluster operator is 0.28.0, a vulnerability fix can be part of a 0.28.1 and/or 0.29.0.
+For example, if the latest version of the cluster operator is 99.98.0, a vulnerability fix can be part of a 99.98.1 and/or 99.99.0.
 
 Regarding the Apache Kafka security vulnerabilities, Strimzi uses Apache Kafka binaries as provided by the Apache Kafka project.
 Any CVE in Apache Kafka and its dependencies need to be first fixed and released in Apache Kafka itself and then used by Strimzi.
