@@ -1,13 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-The Strimzi project provides security vulnerability fixes on its components as part of a new patch version of the current minor release and/or on the next minor release, from the `main` branch. The choice about having a new patch version, making the fix only on the next minor release or both depends on the severity of the vulnerability.
-For example, if the latest version of the cluster operator is 0.28.0, a vulnerability fix can be part of a 0.28.1 and/or 0.29.0.
-The same applies to the other Strimzi components like the Kafka bridge, Kafka OAuth and so on.
-Regarding the Apache Kafka security vulnerabilities, their fix follow the release process in the upstream Apache Kafka community.
-A list of fixed CVEs is provided [here](https://kafka.apache.org/cve-list).
-
 ## Reporting a Vulnerability
 
 Security is important for us. 
@@ -19,3 +11,11 @@ Reported vulnerabilities will be investigated and patched on the next patch (or 
 To report a vulnerability or a security-related issue, please email the private mailing list [cncf-strimzi-maintainers@lists.cncf.io](mailto:cncf-strimzi-maintainers@lists.cncf.io) with the details of the vulnerability.
 Do not report non-security-impacting issues through this channel.
 Use GitHub issues instead.
+
+## Supported Versions
+
+Depending on the severity of the CVE or other vulnerability, on any Strimzi component, the project provides the fix either as a patch release of the current minor release or in the next minor release.
+For example, if the latest version of the cluster operator is 0.28.0, a vulnerability fix can be part of a 0.28.1 and/or 0.29.0.
+
+Regarding the Apache Kafka security vulnerabilities, Strimzi uses Apache Kafka binaries as provided by the Apache Kafka project.
+Any CVE in Apache Kafka and its dependencies need to be first fixed and released in Apache Kafka itself and then used by Strimzi.
