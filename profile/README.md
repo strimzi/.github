@@ -1,4 +1,10 @@
-[![Strimzi](https://raw.githubusercontent.com/strimzi/.github/main/logo/strimzi.png)](https://strimzi.io/)
+<p style="text-align:center;" align="center">
+      <picture align="center">
+         <source media="(prefers-color-scheme: dark)" srcset="/logo/strimzi-horizontal-white.png">
+         <source media="(prefers-color-scheme: light)" srcset="/logo/strimzi.png">
+         <img align="center" src="/logo/strimzi.png" alt="Strimzi Logo" width="65%"/>
+      </picture>
+</p>
 
 # Run Apache Kafka® on Kubernetes
 
@@ -51,4 +57,10 @@ Strimzi is licensed under the [Apache License](https://github.com/strimzi/.githu
 
 Strimzi is a [Cloud Native Computing Foundation](https://www.cncf.io/) project.
 
-[![CNCF ><](https://raw.githubusercontent.com/strimzi/.github/main/logo/cncf-color.png)](https://www.cncf.io/)
+<p style="text-align:center;" align="center">
+      <picture align="center">
+         <source media="(prefers-color-scheme: dark)" srcset="/logo/cncf-white.png">
+         <source media="(prefers-color-scheme: light)" srcset="/logo/cncf-color.png">
+         <img align="center" src="/logo/cncf-color.png" alt="CNCF Logo" width="65%"/>
+      </picture>
+</p>
