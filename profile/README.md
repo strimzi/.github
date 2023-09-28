@@ -2,7 +2,7 @@
       <picture align="center">
          <source media="(prefers-color-scheme: dark)" srcset="/logo/strimzi-horizontal-white.png">
          <source media="(prefers-color-scheme: light)" srcset="/logo/strimzi.png">
-         <img align="center" src="/logo/strimzi.png" alt="Strimzi Logo" width="65%"/>
+         <img align="center" src="/logo/strimzi.png" alt="logo" width="65%"/>
       </picture>
 </p>
 
