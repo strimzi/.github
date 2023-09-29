@@ -1,4 +1,10 @@
-[![Strimzi](./logo/strimzi.png)](https://strimzi.io/)
+<p style="text-align:center;" align="center">
+      <picture align="center">
+         <source media="(prefers-color-scheme: dark)" srcset="logo\strimzi-horizontal-white.png">
+         <source media="(prefers-color-scheme: light)" srcset="logo\strimzi.png">
+         <img align="center" src="logo\strimzi.png" alt=" Strimzi Logo" width="65%"/>
+      </picture>
+</p>
 
 # Strimzi Community Health Files
 
@@ -17,4 +23,11 @@ This repository contains the community health files for the Strimzi project:
 
 Strimzi is a <a href="http://cncf.io">Cloud Native Computing Foundation</a> sandbox project.
 
-![CNCF ><](./logo/cncf-color.png)
+
+<p style="text-align:center;" align="center">
+      <picture align="center">
+         <source media="(prefers-color-scheme: dark)" srcset="logo\cncf-white.png">
+         <source media="(prefers-color-scheme: light)" srcset="logo\cncf-color.png">
+         <img align="center" src="logo\cncf-color.png" alt="CNCF Logo" width="65%"/>
+      </picture>
+</p>
