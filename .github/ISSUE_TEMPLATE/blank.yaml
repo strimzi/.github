@@ -1,0 +1,13 @@
+---
+name: Blank issue
+description: Create a new issue from scratch
+title: ''
+labels: ['needs-triage']
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: Describe your problem or suggestion
+      placeholder: Type your description here...
+    validations:
+      required: true
