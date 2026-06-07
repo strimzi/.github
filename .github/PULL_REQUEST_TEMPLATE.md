@@ -23,4 +23,4 @@ _Please go through this checklist and make sure all applicable tasks have been d
 - [ ] Write tests
 - [ ] Make sure all tests pass
 - [ ] Try your changes inside a Kubernetes cluster, not just from unit tests
-- [ ] AI assistance was used to create this PR
+- [ ] AI assistance was used to create this PR (see the [Strimzi AI policy](https://github.com/strimzi/governance/blob/main/AI_POLICY.md))
