@@ -1,4 +1,4 @@
-### Type of change
+### Type of Change
 
 _Select the type of your PR and delete the other items_
 
