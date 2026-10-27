@@ -19,3 +19,9 @@ For example, if the latest version of the cluster operator is 99.98.0, a vulnera
 
 Regarding the Apache Kafka security vulnerabilities, Strimzi uses Apache Kafka binaries as provided by the Apache Kafka project.
 Any CVE in Apache Kafka and its dependencies need to be first fixed and released in Apache Kafka itself and then used by Strimzi.
+
+## CRA Stewardship 
+
+This project is supported under the Linux Foundation CRA stewardship framework, as described at https://www.linuxfoundation.org/security.
+Security vulnerabilities should be reported through the mechanisms described above, which we will coordinate with our CRA steward.
+For actively exploited vulnerabilities and severe incidents that may require CRA escalation, please use the project's emergency security reporting mechanisms as appropriate.
