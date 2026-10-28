@@ -18,6 +18,17 @@ You can contribute by:
 All bugs, tasks or enhancements are tracked as GitHub issues.
 Issues which might be a good start for new contributors are marked with the “good-start” label.
 
+## Escalating to the CRA Steward
+
+This project escalates two kinds of event to the Linux Foundation steward at [steward@linuxfoundation.org](mailto:steward@linuxfoundation.org):
+
+* **Actively exploited vulnerabilities:** a vulnerability where the project has reliable evidence that a malicious actor has exploited it.
+* **Severe incidents:** a security compromise of the project's own IT infrastructure.
+
+Ordinary vulnerabilities with no evidence of exploitation are not escalation events.
+Remediation never waits on the escalation decision.
+See the [security policy](SECURITY.md) for how to report a vulnerability.
+
 ## I just have a question
 
 If you encounter any issues while using Strimzi, you can get help using:
