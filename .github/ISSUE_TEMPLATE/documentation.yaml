@@ -1,7 +1,7 @@
 ---
 name: Documentation
 description: Report a bug or suggest an idea for our documentation
-title: '[Docs]: '
+title: '[Docs] '
 labels: ['documentation', 'needs-triage']
 body:
   - type: textarea
